@@ -1,19 +1,15 @@
 # Tye Hickman
-
 Leoma, TN (Remote)
+<!-- TODO: links to socials -->
 tye.hickman89@gmail.com | (931) 244-0949
 LinkedIn￼ | GitHub￼
-
-⸻
 
 ## SUMMARY
 
 Senior-level Software Engineer with 6+ years of experience designing and delivering scalable, cloud-native applications. Strong foundation in Python, .NET, and modern web frameworks with hands-on experience in CI/CD, cloud infrastructure (Azure), containerized deployments, and distributed systems design. Proven track record of improving engineering velocity, optimizing databases, and mentoring junior developers. U.S. Marine Corps veteran known for disciplined execution, ownership, and cross-functional collaboration.
 
-⸻
-
 ## TECHNICAL SKILLS
-
+<!-- TODO: bold before colon -->
 Languages: Python, C#, JavaScript (Angular, React, KnockoutJS), TypeScript, Node.js
 Frameworks: Flask (familiar), FastAPI (familiar), ASP.NET, Express.js
 Cloud & DevOps: Azure (App Services, Functions, DevOps), AWS (foundational), GitHub Actions, GitLab Pipelines, Azure DevOps
@@ -24,8 +20,6 @@ Web & Runtime: Nginx (familiar), API hosting patterns
 Practices: CI/CD pipelines, Agile development, OOP, SOLID principles, code reviews, system design
 AI/ML Exposure: Foundational ML/NLP concepts, AI/ML certification coursework, model integration awareness
 Other: SharePoint Online, Power Automate, Git
-
-⸻
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -39,8 +33,6 @@ Other: SharePoint Online, Power Automate, Git
 - Contribute to architecture discussions and mentor junior engineers on code quality and best practices.
 - Support secure application deployment patterns aligned with federal contracting standards.
 
-⸻
-
 ### Software Engineer 1 & 2
 
 #### Vertafore | Pulaski, TN | March 2018 – March 2023
@@ -50,8 +42,6 @@ Other: SharePoint Online, Power Automate, Git
 - Participated in Agile development cycles, including sprint planning, estimation, and code reviews.
 - Contributed to modernization initiatives emphasizing maintainability, modularity, and scalable architecture.
 - Partnered with QA, product, and infrastructure teams to debug and resolve complex production issues.
-
-⸻
 
 ## MILITARY EXPERIENCE
 
@@ -63,16 +53,12 @@ Other: SharePoint Online, Power Automate, Git
 - Trained and supervised personnel on safety-critical procedures and technical standards.
 - Developed discipline and leadership skills directly transferable to high-reliability engineering environments.
 
-⸻
-
 ## CERTIFICATIONS & EDUCATION
 
 - CompTIA Security+ (Current)
 - AWS Cloud Practitioner (In Progress)
 - Master of Science (MS) – Maryville University, 2021
 - Bachelor of Business Administration (BBA) – Middle Tennessee State University, 2017
-
-⸻
 
 ## ADDITIONAL STRENGTHS
 - Experience mentoring junior developers and contributing to engineering culture.
