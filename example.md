@@ -6,13 +6,13 @@ LinkedIn￼ | GitHub￼
 
 ⸻
 
-##SUMMARY
+## SUMMARY
 
 Senior-level Software Engineer with 6+ years of experience designing and delivering scalable, cloud-native applications. Strong foundation in Python, .NET, and modern web frameworks with hands-on experience in CI/CD, cloud infrastructure (Azure), containerized deployments, and distributed systems design. Proven track record of improving engineering velocity, optimizing databases, and mentoring junior developers. U.S. Marine Corps veteran known for disciplined execution, ownership, and cross-functional collaboration.
 
 ⸻
 
-##TECHNICAL SKILLS
+## TECHNICAL SKILLS
 
 Languages: Python, C#, JavaScript (Angular, React, KnockoutJS), TypeScript, Node.js
 Frameworks: Flask (familiar), FastAPI (familiar), ASP.NET, Express.js
@@ -27,11 +27,11 @@ Other: SharePoint Online, Power Automate, Git
 
 ⸻
 
-##PROFESSIONAL EXPERIENCE
+## PROFESSIONAL EXPERIENCE
 
-###Software Engineer 2
+### Software Engineer 2
 
-#####Joint Strategic Technologies | Remote, US | March 2023 – Present
+##### Joint Strategic Technologies | Remote, US | March 2023 – Present
 - Design and develop enterprise web applications using .NET, JavaScript frameworks, and SharePoint Online.
 - Lead CI/CD pipeline implementation (GitLab Pipelines), reducing deployment cycle time by ~20%.
 - Implement automated workflows via Power Automate to improve system interoperability and data availability.
@@ -41,9 +41,9 @@ Other: SharePoint Online, Power Automate, Git
 
 ⸻
 
-###Software Engineer 1 & 2
+### Software Engineer 1 & 2
 
-####Vertafore | Pulaski, TN | March 2018 – March 2023
+#### Vertafore | Pulaski, TN | March 2018 – March 2023
 - Built and maintained enterprise-scale applications using C#, .NET, and MS SQL Server.
 - Designed RESTful APIs and backend services supporting high-availability insurance platforms.
 - Improved database performance through query optimization, indexing strategies, and schema refinement.
@@ -53,11 +53,11 @@ Other: SharePoint Online, Power Automate, Git
 
 ⸻
 
-##MILITARY EXPERIENCE
+## MILITARY EXPERIENCE
 
-###Aviation Armament Technician
+### Aviation Armament Technician
 
-####United States Marine Corps | 2011 – 2015
+#### United States Marine Corps | 2011 – 2015
 - Maintained and inspected aviation weapons systems ensuring operational readiness and compliance.
 - Led quality assurance inspections under strict regulatory frameworks.
 - Trained and supervised personnel on safety-critical procedures and technical standards.
@@ -65,7 +65,7 @@ Other: SharePoint Online, Power Automate, Git
 
 ⸻
 
-##CERTIFICATIONS & EDUCATION
+## CERTIFICATIONS & EDUCATION
 
 - CompTIA Security+ (Current)
 - AWS Cloud Practitioner (In Progress)
@@ -74,7 +74,7 @@ Other: SharePoint Online, Power Automate, Git
 
 ⸻
 
-##ADDITIONAL STRENGTHS
+## ADDITIONAL STRENGTHS
 - Experience mentoring junior developers and contributing to engineering culture.
 - Strong systems-thinking mindset with focus on performance, reliability, and maintainability.
 - Passionate about AI/ML integration, automation, and scalable backend architecture.
