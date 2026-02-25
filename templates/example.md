@@ -1,25 +1,23 @@
 # Tye Hickman
-Leoma, TN (Remote)
-<!-- TODO: links to socials -->
+Leoma, TN (Remote) <br>
 tye.hickman89@gmail.com | (931) 244-0949
-LinkedIn￼ | GitHub￼
+[LinkedIn](https://www.linkedin.com/in/tyehickman/)￼ | [GitHub](https://github.com/TyeHickman)￼
 
 ## SUMMARY
 
 Senior-level Software Engineer with 6+ years of experience designing and delivering scalable, cloud-native applications. Strong foundation in Python, .NET, and modern web frameworks with hands-on experience in CI/CD, cloud infrastructure (Azure), containerized deployments, and distributed systems design. Proven track record of improving engineering velocity, optimizing databases, and mentoring junior developers. U.S. Marine Corps veteran known for disciplined execution, ownership, and cross-functional collaboration.
 
 ## TECHNICAL SKILLS
-<!-- TODO: bold before colon -->
-Languages: Python, C#, JavaScript (Angular, React, KnockoutJS), TypeScript, Node.js
-Frameworks: Flask (familiar), FastAPI (familiar), ASP.NET, Express.js
-Cloud & DevOps: Azure (App Services, Functions, DevOps), AWS (foundational), GitHub Actions, GitLab Pipelines, Azure DevOps
-Containers & Infrastructure: Docker (working knowledge), Linux, RESTful APIs, Microservices
-Databases: MS SQL Server, relational database optimization, indexing strategies
-Caching & Messaging: Redis (familiar), message queue concepts
-Web & Runtime: Nginx (familiar), API hosting patterns
-Practices: CI/CD pipelines, Agile development, OOP, SOLID principles, code reviews, system design
-AI/ML Exposure: Foundational ML/NLP concepts, AI/ML certification coursework, model integration awareness
-Other: SharePoint Online, Power Automate, Git
+__Languages__: Python, C#, JavaScript (Angular, React, KnockoutJS), TypeScript, Node.js <br>
+__Frameworks__: Flask (familiar), FastAPI (familiar), ASP.NET, Express.js <br>
+__Cloud & DevOps__: Azure (App Services, Functions, DevOps), AWS (foundational), GitHub Actions, GitLab Pipelines, Azure DevOps  <br>
+__Containers & Infrastructure__: Docker (working knowledge), Linux, RESTful APIs, Microservices <br>
+__Databases__: MS SQL Server, relational database optimization, indexing strategies, NoSQL (MongoDB)  <br>
+__Caching & Messaging__: Redis (familiar), RabbitMQ(familiar), message queue concepts  <br>
+__Web & Runtime__: Nginx (familiar), API hosting patterns <br>
+__Practices__: CI/CD pipelines, Agile development, OOP, SOLID principles, code reviews, system design <br>
+__AI/ML Exposure__: Foundational ML/NLP concepts, AI/ML certification coursework, model integration awareness <br>
+__Other__: SharePoint Online, Power Automate, Git, embedded systems <br>
 
 ## PROFESSIONAL EXPERIENCE
 
