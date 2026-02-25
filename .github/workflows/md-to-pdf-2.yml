@@ -9,7 +9,7 @@ on:
       path:
         description: 'Glob or file path to convert (optional)'
         required: false
-        default: '**/*.md'
+        default: 'templates/example.md'
 
 jobs:
   convert:
