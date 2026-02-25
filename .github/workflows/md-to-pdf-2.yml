@@ -1,0 +1,49 @@
+name: Convert Markdown to PDF
+
+on:
+  push:
+    paths:
+      - '**/*.md'
+  workflow_dispatch:
+    inputs:
+      path:
+        description: 'Glob or file path to convert (optional)'
+        required: false
+        default: '**/*.md'
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install Pandoc and LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-latex-recommended texlive-fonts-recommended texlive-xetex
+
+      - name: Convert Markdown files to PDF
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p output
+          PATTERN="${{ github.event.inputs.path || '**/*.md' }}"
+          # Expand the glob into tracked files
+          files=$(git ls-files $PATTERN || true)
+          if [ -z "$files" ]; then
+            echo "No markdown files found for pattern: $PATTERN"
+            exit 0
+          fi
+          for f in $files; do
+            fn=$(basename "$f" .md)
+            out="output/${fn}.pdf"
+            echo "Converting $f -> $out"
+            pandoc "$f" -o "$out" --pdf-engine=xelatex
+          done
+
+      - name: Upload PDFs
+        uses: actions/upload-artifact@v4
+        with:
+          name: markdown-pdfs
+          path: output/*.pdf
