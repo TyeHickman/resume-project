@@ -10,6 +10,10 @@ on:
         description: 'Glob or file path to convert (optional)'
         required: false
         default: 'templates/example.md'
+      debug:
+        description: 'Include intermediary HTML files in artifact (true/false)'
+        required: false
+        default: 'true'
 
 jobs:
   convert:
@@ -65,4 +69,6 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: markdown-pdfs
-          path: output/*.pdf
+          path: |
+            output/*.pdf
+            ${{ github.event.inputs.debug == 'true' && 'output/*.html' || '' }}
