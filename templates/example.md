@@ -1,9 +1,3 @@
----
-title: "TyeHickman"
-author: "Tye Hickman"
-date: "February 27, 2026"
----
-
 # Tye Hickman {.title}
 Leoma, TN (Remote) <br>
 tye.hickman89@gmail.com | (931) 244-0949
