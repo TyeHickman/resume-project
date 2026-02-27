@@ -1,6 +1,8 @@
-<head>
-    <title>TyeHickman</title>
-</head>
+---
+title: "TyeHickman"
+author: "Tye Hickman"
+date: "February 27, 2026"
+---
 
 # Tye Hickman {.title}
 Leoma, TN (Remote) <br>

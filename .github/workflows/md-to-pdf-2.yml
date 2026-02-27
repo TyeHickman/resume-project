@@ -54,7 +54,8 @@ jobs:
             fi
 
             echo "Converting $f -> $html (HTML)"
-            pandoc "$f" -s --to html5 "$css_arg" -o "$html"
+            # Embed CSS and resources into the HTML so wkhtmltopdf can render without missing files
+            pandoc "$f" -s --to html5 $css_arg --self-contained -o "$html"
 
             echo "Rendering $html -> $out (PDF via wkhtmltopdf)"
             wkhtmltopdf --enable-local-file-access "$html" "$out"
