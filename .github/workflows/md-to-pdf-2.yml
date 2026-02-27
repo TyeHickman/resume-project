@@ -18,28 +18,46 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install Pandoc and LaTeX
+      - name: Install Pandoc and wkhtmltopdf
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc texlive-latex-recommended texlive-fonts-recommended texlive-xetex
+          sudo apt-get install -y pandoc wkhtmltopdf fonts-dejavu-core
 
-      - name: Convert Markdown files to PDF
+      - name: Convert Markdown -> HTML -> PDF (with optional stylesheet)
         shell: bash
         run: |
           set -euo pipefail
           mkdir -p output
-          PATTERN="${{ github.event.inputs.path || '**/*.md' }}"
-          # Expand the glob into tracked files
+          PATTERN="${{ github.event.inputs.path }}"
+          PATTERN="${PATTERN:-**/*.md}"
           files=$(git ls-files $PATTERN || true)
           if [ -z "$files" ]; then
             echo "No markdown files found for pattern: $PATTERN"
             exit 0
           fi
           for f in $files; do
-            fn=$(basename "$f" .md)
-            out="output/${fn}.pdf"
-            echo "Converting $f -> $out"
-            pandoc "$f" -o "$out" --pdf-engine=xelatex
+            base=$(basename "$f" .md)
+            dir=$(dirname "$f")
+            html="output/${base}.html"
+            out="output/${base}.pdf"
+
+            # Prefer a stylesheet named 'style.css' next to the markdown, fallback to .github/styles/markdown.css if present
+            css_arg=""
+            if [ -f "${dir}/style.css" ]; then
+              css_arg="--css=${dir}/style.css"
+              echo "Using stylesheet: ${dir}/style.css"
+            elif [ -f ".github/styles/markdown.css" ]; then
+              css_arg="--css=.github/styles/markdown.css"
+              echo "Using stylesheet: .github/styles/markdown.css"
+            else
+              echo "No stylesheet found for $f — rendering with default styles"
+            fi
+
+            echo "Converting $f -> $html (HTML)"
+            pandoc "$f" -s --to html5 $css_arg -o "$html"
+
+            echo "Rendering $html -> $out (PDF via wkhtmltopdf)"
+            wkhtmltopdf --enable-local-file-access "$html" "$out"
           done
 
       - name: Upload PDFs
