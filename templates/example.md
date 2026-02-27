@@ -1,5 +1,7 @@
 # Tye Hickman {.title}
+<div id="contactLine" class="contact">
 Leoma, TN (Remote) | tye.hickman89@gmail.com | (931) 244-0949 | [LinkedIn](https://www.linkedin.com/in/tyehickman/)￼ | [GitHub](https://github.com/TyeHickman)
+</div>
 
 ## SUMMARY {.sectionHead}
 Senior-level Software Engineer with 6+ years of experience designing and delivering scalable, cloud-native applications. Strong foundation in Python, .NET, and modern web frameworks with hands-on experience in CI/CD, cloud infrastructure (Azure), containerized deployments, and distributed systems design. Proven track record of improving engineering velocity, optimizing databases, and mentoring junior developers. U.S. Marine Corps veteran known for disciplined execution, ownership, and cross-functional collaboration.

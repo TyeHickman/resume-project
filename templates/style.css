@@ -1,7 +1,10 @@
-.title {color: #643464;}
+.title {
+    color: #643464;
+    margin-bottom: 0%;
+}
 
 .sectionHead {color: #643464;}
-.jobHeader {color: #a657a6;}
+.jobHead {color: #a657a6;}
 
 body {
   font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
