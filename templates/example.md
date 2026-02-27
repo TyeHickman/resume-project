@@ -1,3 +1,7 @@
+<head>
+    <title>TyeHickman</title>
+</head>
+
 # Tye Hickman {.title}
 Leoma, TN (Remote) <br>
 tye.hickman89@gmail.com | (931) 244-0949
