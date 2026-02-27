@@ -1,7 +1,5 @@
 # Tye Hickman {.title}
-Leoma, TN (Remote) <br>
-tye.hickman89@gmail.com | (931) 244-0949
-[LinkedIn](https://www.linkedin.com/in/tyehickman/)￼ | [GitHub](https://github.com/TyeHickman)￼
+[Leoma, TN (Remote) | tye.hickman89@gmail.com | (931) 244-0949 | [LinkedIn](https://www.linkedin.com/in/tyehickman/)￼ | [GitHub](https://github.com/TyeHickman)] {#contact .contact}
 
 ## SUMMARY
 
