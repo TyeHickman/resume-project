@@ -1,12 +1,18 @@
 .title {
     color: #643464;
-    margin-bottom: 0%;
+    margin-bottom: -15px;
 }
 
-.sectionHead {color: #643464;}
-.jobHead {color: #a657a6;}
+.sectionHead {
+    color: #643464;
+    margin-bottom: -15px;
+}
+.jobHead {
+    color: #a657a6;
+    margin-bottom: -15px;}
 
 body {
   font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
   font-size: 12pt;
+  margin: 0.25in;
 }
