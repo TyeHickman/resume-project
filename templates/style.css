@@ -10,6 +10,7 @@
 .sectionHead {
     color: #523352;
     margin-bottom: -15px;
+    font-size: 16pt;
 }
 
 .jobHead {
@@ -28,9 +29,12 @@ body {
   font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
   font-size: 12pt;
   margin: 0.25in;
-  list-style-type: circle;
+}
+
+body ul {
+    list-style-type: circle;
 }
 
 body ul li::marker {
-  color: #9b2e9b; /* or any other color code */
+  color: #9b2e9b;
 }
