@@ -10,7 +10,7 @@ Leoma, TN (Remote) | tye.hickman89@gmail.com | (931) 244-0949 | [<img class="soc
 ## SUMMARY {.sectionHead}
 Senior-level Software Engineer with 6+ years of experience designing and delivering scalable, cloud-native applications. Strong foundation in Python, .NET, and modern web frameworks with hands-on experience in CI/CD, cloud infrastructure (Azure), containerized deployments, and distributed systems design. Proven track record of improving engineering velocity, optimizing databases, and mentoring junior developers. U.S. Marine Corps veteran known for disciplined execution, ownership, and cross-functional collaboration.
 
-## TECHNICAL SKILLS {.sectionHead}
+## TECHNICAL SKILLS {#skills .sectionHead}
 __Languages__: Python, C#, JavaScript (Angular, React, KnockoutJS), TypeScript, Node.js <br>
 __Frameworks__: Flask (familiar), FastAPI (familiar), ASP.NET, Express.js <br>
 __Cloud & DevOps__: Azure (App Services, Functions, DevOps), AWS (foundational), GitHub Actions, GitLab Pipelines, Azure DevOps  <br>
