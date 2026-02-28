@@ -39,6 +39,6 @@ body ul li::marker {
   color: #9b2e9b;
 }
 
-#skills {
+#skills ul{
     font-size: 10pt;
 }
