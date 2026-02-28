@@ -14,7 +14,8 @@
 .socialIcon {
     fill: #523352;
     margin-bottom: -5px;
-    filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(189deg) brightness(101%) contrast(100%);
+    
+    filter: grayscale(60%);
 }
 
 body {
