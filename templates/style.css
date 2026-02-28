@@ -39,6 +39,8 @@ body ul li::marker {
   color: #9b2e9b;
 }
 
-#skills p {
+#skills + p {
     font-size: 10pt;
 }
+
+/* https://www.freecodecamp.org/news/css-selectors-cheat-sheet/ */
