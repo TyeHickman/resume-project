@@ -24,7 +24,7 @@ __Other__: SharePoint Online, Power Automate, Git, embedded systems <br>
 
 ## PROFESSIONAL EXPERIENCE {.sectionHead}
 ### Software Engineer 2 {.jobHead}
-#### Joint Strategic Technologies | Remote, US | March 2023 – Present
+#### Joint Strategic Technologies | Remote, US | March 2023 – Present {.jobSubHeader}
 - Design and develop enterprise web applications using .NET, JavaScript frameworks, and SharePoint Online.
 - Lead CI/CD pipeline implementation (GitLab Pipelines), reducing deployment cycle time by ~20%.
 - Implement automated workflows via Power Automate to improve system interoperability and data availability.
@@ -33,7 +33,7 @@ __Other__: SharePoint Online, Power Automate, Git, embedded systems <br>
 - Support secure application deployment patterns aligned with federal contracting standards.
 
 ### Software Engineer 1 & 2 {.jobHead}
-#### Vertafore | Pulaski, TN | March 2018 – March 2023
+#### Vertafore | Pulaski, TN | March 2018 – March 2023 {.jobSubHeader}
 - Built and maintained enterprise-scale applications using C#, .NET, and MS SQL Server.
 - Designed RESTful APIs and backend services supporting high-availability insurance platforms.
 - Improved database performance through query optimization, indexing strategies, and schema refinement.
@@ -44,7 +44,7 @@ __Other__: SharePoint Online, Power Automate, Git, embedded systems <br>
 ## MILITARY EXPERIENCE {.sectionHead}
 
 ### Aviation Armament Technician {.jobHead}
-#### United States Marine Corps | 2011 – 2015
+#### United States Marine Corps | 2011 – 2015 {.jobSubHeader}
 - Maintained and inspected aviation weapons systems ensuring operational readiness and compliance.
 - Led quality assurance inspections under strict regulatory frameworks.
 - Trained and supervised personnel on safety-critical procedures and technical standards.
