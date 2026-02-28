@@ -4,7 +4,7 @@
 
 # Tye Hickman {.title}
 <div id="contactLine" class="contact">
-Leoma, TN (Remote) | tye.hickman89@gmail.com | (931) 244-0949 | [<img class="socialIcon" src="../resources/square-linkedin-brands-solid-full.svg" width="35" height="35">](https://www.linkedin.com/in/tyehickman/)￼ | [ <img class="socialIcon" src="../resources/square-github-brands-solid-full.svg" width="35" height="35"> ](https://github.com/TyeHickman)
+Leoma, TN (Remote) | tye.hickman89@gmail.com | (931) 244-0949 | [<img class="socialIcon" src="../resources/square-linkedin-brands-solid-full.svg" width="25" height="25" alt="LinkedIn">](https://www.linkedin.com/in/tyehickman/)￼ | [ <img class="socialIcon" src="../resources/square-github-brands-solid-full.svg" width="25" height="25" alt="github"> ](https://github.com/TyeHickman)
 </div>
 
 ## SUMMARY {.sectionHead}
