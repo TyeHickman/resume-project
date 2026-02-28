@@ -2,16 +2,20 @@
     color: #643464;
     margin-bottom: -15px;
 }
+
 .contact {
-    font-size: 10px;
+    font-size: 10pt;
 }
+
 .sectionHead {
     color: #523352;
     margin-bottom: -15px;
 }
+
 .jobHead {
-    color: #a657a6;
-    margin-bottom: -15px;}
+    color: #9b2e9b;
+    margin-bottom: -15px;
+}
 
 .socialIcon {
     fill: #523352;
@@ -24,4 +28,9 @@ body {
   font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
   font-size: 12pt;
   margin: 0.25in;
+  list-style-type: circle;
+}
+
+body ul li::marker {
+  color: #9b2e9b; /* or any other color code */
 }

@@ -23,7 +23,6 @@ __AI/ML Exposure__: Foundational ML/NLP concepts, AI/ML certification coursework
 __Other__: SharePoint Online, Power Automate, Git, embedded systems <br>
 
 ## PROFESSIONAL EXPERIENCE {.sectionHead}
-
 ### Software Engineer 2 {.jobHead}
 #### Joint Strategic Technologies | Remote, US | March 2023 – Present
 - Design and develop enterprise web applications using .NET, JavaScript frameworks, and SharePoint Online.
