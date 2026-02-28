@@ -1,6 +1,10 @@
+<head>
+<!-- TODO: add font awesome for link icons -->
+</head>
+
 # Tye Hickman {.title}
 <div id="contactLine" class="contact">
-Leoma, TN (Remote) | tye.hickman89@gmail.com | (931) 244-0949 | [LinkedIn](https://www.linkedin.com/in/tyehickman/)￼ | [GitHub](https://github.com/TyeHickman)
+Leoma, TN (Remote) | tye.hickman89@gmail.com | (931) 244-0949 | [LinkedIn](https://www.linkedin.com/in/tyehickman/)￼ | [ <img src="../resources/github-brands-solid-full.svg" width="50" height="50"> ](https://github.com/TyeHickman)
 </div>
 
 ## SUMMARY {.sectionHead}
