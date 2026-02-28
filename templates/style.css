@@ -14,7 +14,8 @@
 .socialIcon {
     fill: #523352;
     margin-bottom: -5px;
-    filter: grayscale(60%), saturate(50%)
+    margin-top: 10px;
+    filter: grayscale(60%), saturate(50%), opacity(25%);
 }
 
 body {
